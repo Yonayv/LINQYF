@@ -1,0 +1,14 @@
+C:\Users\EmilyFixico\source\repos\LINQYF\LINQYF\bin\Debug\net6.0\LINQYF.exe
+C:\Users\EmilyFixico\source\repos\LINQYF\LINQYF\bin\Debug\net6.0\LINQYF.deps.json
+C:\Users\EmilyFixico\source\repos\LINQYF\LINQYF\bin\Debug\net6.0\LINQYF.runtimeconfig.json
+C:\Users\EmilyFixico\source\repos\LINQYF\LINQYF\bin\Debug\net6.0\LINQYF.dll
+C:\Users\EmilyFixico\source\repos\LINQYF\LINQYF\bin\Debug\net6.0\LINQYF.pdb
+C:\Users\EmilyFixico\source\repos\LINQYF\LINQYF\obj\Debug\net6.0\LINQYF.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\EmilyFixico\source\repos\LINQYF\LINQYF\obj\Debug\net6.0\LINQYF.AssemblyInfoInputs.cache
+C:\Users\EmilyFixico\source\repos\LINQYF\LINQYF\obj\Debug\net6.0\LINQYF.AssemblyInfo.cs
+C:\Users\EmilyFixico\source\repos\LINQYF\LINQYF\obj\Debug\net6.0\LINQYF.csproj.CoreCompileInputs.cache
+C:\Users\EmilyFixico\source\repos\LINQYF\LINQYF\obj\Debug\net6.0\LINQYF.dll
+C:\Users\EmilyFixico\source\repos\LINQYF\LINQYF\obj\Debug\net6.0\refint\LINQYF.dll
+C:\Users\EmilyFixico\source\repos\LINQYF\LINQYF\obj\Debug\net6.0\LINQYF.pdb
+C:\Users\EmilyFixico\source\repos\LINQYF\LINQYF\obj\Debug\net6.0\LINQYF.genruntimeconfig.cache
+C:\Users\EmilyFixico\source\repos\LINQYF\LINQYF\obj\Debug\net6.0\ref\LINQYF.dll
